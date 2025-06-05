@@ -68,7 +68,7 @@ Because it’s built in Python and Qt, you can customize layouts, colors, or add
 1. **Clone this repository**
 
    ```bash
-   git clone https://github.com/YourGitHubUsername/QtInvoiceGen.git
+   git clone https://github.com/fabien-prog/QtInvoiceGen.git
    cd QtInvoiceGen
    ```
 
@@ -284,7 +284,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 * **Author**: Fabien Gaudreau
 * **Email**: [fabi.gaudreau@gmail.com](mailto:fabi.gaudreau@gmail.com)
-* **Repo**: [https://github.com/fabien-prog/QtInvoiceGen](https://github.com/YourGitHubUsername/QtInvoiceGen)
-* **Issues**: [https://github.com/fabien-prog/QtInvoiceGen/issues](https://github.com/YourGitHubUsername/QtInvoiceGen/issues)
+* **Repo**: [https://github.com/fabien-prog/QtInvoiceGen](https://github.com/fabien-prog/QtInvoiceGen)
+* **Issues**: [https://github.com/fabien-prog/QtInvoiceGen/issues](https://github.com/fabien-prog/QtInvoiceGen/issues)
 
 Thank you for using **QtInvoiceGen**! We hope it streamlines your billing workflow.
